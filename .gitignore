@@ -11,6 +11,9 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+*.ipa
+*.apk
+dump.xml
 
 # IntelliJ related
 *.iml
